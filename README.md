@@ -8,6 +8,7 @@ Visit our team agreement page: [Team Charter](https://vonderheiden.github.io/Tea
 
 ## Team Members
 - Martin
+- Amit
 
 ## About
 This repository contains our team agreement and serves as a practice project for GitHub collaboration workflows.
