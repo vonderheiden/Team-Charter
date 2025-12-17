@@ -8,6 +8,7 @@ Visit our team agreement page: [Team Charter](https://vonderheiden.github.io/Tea
 
 ## Team Members
 - Martin
+- Amit
 - John
 
 ## About
